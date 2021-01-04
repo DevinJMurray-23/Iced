@@ -1,0 +1,382 @@
+.main-home {
+  height: 100vh;
+  background-image: url('../images/Devin-J-3-Wall.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.menu-button {
+  padding: 15px;
+  border-radius: 4px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#a1a1a2), to(#a1a1a2));
+  background-image: linear-gradient(180deg, #a1a1a2, #a1a1a2);
+  color: #fff;
+}
+
+.icon {
+  font-size: 25px;
+}
+
+.container {
+  margin-right: 220px;
+  margin-left: 220px;
+}
+
+.navbar {
+  display: none;
+  margin-left: 0px;
+  padding-top: 20px;
+  background-color: transparent;
+}
+
+.div-block {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 40px auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  background-color: #e7d2d2;
+  text-align: left;
+}
+
+.heading {
+  text-align: center;
+}
+
+.heading.main-title {
+  margin-right: auto;
+  margin-bottom: 60px;
+  margin-left: auto;
+  font-family: Teko, sans-serif;
+  color: #fff;
+  font-size: 200px;
+  line-height: 40px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.heading-2 {
+  font-family: Proximanova, sans-serif;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.button {
+  position: static;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 30px;
+  border-radius: 2px;
+  background-color: #1d27c8;
+  font-family: 'Proxima nova', sans-serif;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.paragraph {
+  font-family: Proximanova, sans-serif;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.main-home-text {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 300px;
+  padding-bottom: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.portfolio {
+  position: relative;
+  height: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: linear-gradient(180deg, #fff, #fff);
+}
+
+.div-block-2 {
+  display: -ms-grid;
+  display: grid;
+  margin-right: 40px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.div-block-3 {
+  display: block;
+  margin-right: 100px;
+  margin-left: 100px;
+  grid-auto-flow: row;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto auto;
+  grid-template-rows: auto auto auto;
+}
+
+.heading-3 {
+  font-family: 'Overdrive sunset', sans-serif;
+  font-size: 70px;
+  text-align: center;
+}
+
+.heading-4 {
+  font-family: Proximanova, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.heading-5 {
+  font-family: Proximanova, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.new-div-block {
+  display: -ms-grid;
+  display: grid;
+  margin: 10px 40px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.div-block-4 {
+  margin-top: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.heading-6 {
+  font-family: Proximanova, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.video {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0px;
+}
+
+.section {
+  position: relative;
+  height: auto;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#a1a1a2), to(#a1a1a2));
+  background-image: linear-gradient(180deg, #a1a1a2, #a1a1a2);
+}
+
+.paragraph-2 {
+  margin-top: 20px;
+  font-family: Proximanova, sans-serif;
+  color: #a1a1a2;
+  text-align: center;
+}
+
+.paragraph-3 {
+  font-family: Proximanova, sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.image-2 {
+  width: 100%;
+}
+
+.image-3 {
+  width: 100%;
+}
+
+.image-4 {
+  width: 100%;
+}
+
+.image-5 {
+  width: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  .container {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .navbar {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .heading.main-title {
+    margin-bottom: 50px;
+    font-size: 170px;
+  }
+
+  .heading-2 {
+    font-size: 30px;
+  }
+
+  .main-home-text {
+    margin-top: 450px;
+  }
+
+  .portfolio {
+    position: relative;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  .div-block-3 {
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+
+  .new-div-block {
+    margin-top: 20px;
+  }
+
+  .div-block-4 {
+    margin-right: 140px;
+    margin-left: 140px;
+  }
+
+  .video {
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
+
+  .section {
+    position: relative;
+    background-color: #e6e7e8;
+  }
+
+  .paragraph-2 {
+    color: #a1a1a2;
+    text-align: center;
+  }
+
+  .div-block-5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main-home {
+    background-image: url('../images/know.jpg');
+  }
+
+  .heading.main-title {
+    margin-bottom: 25px;
+    font-size: 130px;
+  }
+
+  .heading-2 {
+    font-size: 25px;
+  }
+
+  .main-home-text {
+    margin-top: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .heading.main-title {
+    margin-bottom: 20px;
+    font-size: 90px;
+    letter-spacing: 1px;
+  }
+
+  .heading-2 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 20px;
+  }
+}
+
+@font-face {
+  font-family: 'Proxima nova';
+  src: url('../fonts/Proxima-Nova-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Teko';
+  src: url('../fonts/teko-medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Proximanova';
+  src: url('../fonts/ProximaNova-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Overdrive sunset';
+  src: url('../fonts/Overdrive-Sunset.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

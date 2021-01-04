@@ -1,0 +1,6 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/Overdrive-Sunset.otf
+fonts/Proxima-Nova-Bold.otf
+fonts/ProximaNova-Regular.otf
+fonts/teko-medium.otf
